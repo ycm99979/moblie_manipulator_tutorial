@@ -2,10 +2,10 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>robot_description</name>
-  <version>0.0.0</version>
+  <version>1.0.0</version>
   <description>Unified ROS2 description package for PKNU robot (frbot, fr_arm, mobile_manipulator)</description>
-  <maintainer email="ycm99979@gmail.com">PKNU Robotics Lab</maintainer>
-  <license>TODO: License declaration</license>
+  <maintainer email="frlab@frlab.com">frlab</maintainer>
+  <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
